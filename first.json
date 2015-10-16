@@ -1,0 +1,15 @@
+{
+  "foo": {
+    "bar": "baz",
+    "biz": "foo"
+  },
+  "fiz": {
+    "foo": "baz"
+  },
+  "bar": "baz",
+  "baz": [
+    "foo",
+    "bar"
+  ],
+  "miss": 123
+}
